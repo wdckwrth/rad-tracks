@@ -60,6 +60,7 @@ eyeD3 \
     -A "$ALBUM" \
     -a "$ARTIST" \
     --to-v2.3 \
+    --to-v1.1 \
     --remove-all \
     --add-image folder.jpg:FRONT_COVER \
     --rename '$track:num $title' \
